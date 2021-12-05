@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/milfontariel.github.io/instagram_react/static/js/main.2e09ecb8.chunk.js",
+    "main.js.map": "/milfontariel.github.io/instagram_react/static/js/main.2e09ecb8.chunk.js.map",
+    "runtime-main.js": "/milfontariel.github.io/instagram_react/static/js/runtime-main.1f00fd07.js",
+    "runtime-main.js.map": "/milfontariel.github.io/instagram_react/static/js/runtime-main.1f00fd07.js.map",
+    "static/js/2.8a1f7505.chunk.js": "/milfontariel.github.io/instagram_react/static/js/2.8a1f7505.chunk.js",
+    "static/js/2.8a1f7505.chunk.js.map": "/milfontariel.github.io/instagram_react/static/js/2.8a1f7505.chunk.js.map",
+    "index.html": "/milfontariel.github.io/instagram_react/index.html",
+    "static/js/2.8a1f7505.chunk.js.LICENSE.txt": "/milfontariel.github.io/instagram_react/static/js/2.8a1f7505.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f00fd07.js",
+    "static/js/2.8a1f7505.chunk.js",
+    "static/js/main.2e09ecb8.chunk.js"
+  ]
+}
